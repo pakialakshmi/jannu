@@ -18,15 +18,15 @@
 
 <div align="center">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pakialakshmi/pakialakshmi/output/github-snake-dark.svg">
-  <img alt="contribution snake" src="https://raw.githubusercontent.com/pakialakshmi/pakialakshmi/output/github-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pakialakshmi/jannu/output/github-snake-dark.svg">
+  <img alt="contribution snake" src="https://raw.githubusercontent.com/pakialakshmi/jannu/output/github-snake.svg">
 </picture>
 </div>
 
 <table>
 <tr>
 <td valign="top"><img src="stats.svg" alt="GitHub Stats"/></td>
-<td valign="middle" align="center"><a href="https://github.com/pakialakshmi"><img src="connect.svg" alt="GitHub"/></a></td>
+<td valign="middle" align="center"><a href="https://github.com/pakialakshmi/jannu"><img src="connect.svg" alt="GitHub"/></a></td>
 </tr>
 </table>
 
