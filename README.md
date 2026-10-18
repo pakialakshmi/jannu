@@ -1,15 +1,15 @@
 <div align="center">
 
-<img src="assets/banner.png" alt="Hi, I'm Pakialakshmi" width="100%"/>
+<img src="banner.png" alt="Hi, I'm Pakialakshmi" width="100%"/>
 
 </div>
 
 <table>
 <tr>
-<td width="35%" valign="top"><img src="assets/about.svg" alt="About Me"/></td>
+<td width="35%" valign="top"><img src="about.svg" alt="About Me"/></td>
 <td width="65%" valign="top">
-<img src="assets/skills.svg" alt="Skills"/>
-<img src="assets/projects.svg" alt="Featured Projects"/>
+<img src="skills.svg" alt="Skills"/>
+<img src="projects.svg" alt="Featured Projects"/>
 </td>
 </tr>
 </table>
@@ -25,9 +25,9 @@
 
 <table>
 <tr>
-<td valign="top"><img src="assets/stats.svg" alt="GitHub Stats"/></td>
-<td valign="middle" align="center"><a href="https://github.com/pakialakshmi"><img src="assets/connect.svg" alt="GitHub"/></a></td>
+<td valign="top"><img src="stats.svg" alt="GitHub Stats"/></td>
+<td valign="middle" align="center"><a href="https://github.com/pakialakshmi"><img src="connect.svg" alt="GitHub"/></a></td>
 </tr>
 </table>
 
-<img src="assets/footer.svg" width="100%" alt="Thanks for visiting"/>
+<img src="footer.svg" width="100%" alt="Thanks for visiting"/>
